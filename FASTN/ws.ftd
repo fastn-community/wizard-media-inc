@@ -5,7 +5,7 @@
 export: footer-badge, logo-cloud, content, banner-card, testimonials-card, features-card, faqs, tc-popup, tc-item, tc-item-item, featured-post, posts, h2, h3, markdown, post-card, post, image, row-container, contact-form, iframe, pricing, pricing-card, client-card, hero-right-hug-expanded, cta-left-hug, cta-right-hug, banner-card, team, member, hero-bottom-hug, author-bio, hero-bottom-hug-expanded, contact-us, search-card
 exposing: markdown, post, h3
 
--- ftd.image-src wizard-media-logo: $assets.files.assets.logo.svg
+-- ftd.image-src acme-logo: $assets.files.assets.logo.svg
 
 
 
@@ -23,7 +23,7 @@ optional string document-title: fastn web site template. Build Your Own Website 
 optional string document-description: Simple, easy-to-use web site template to build your own start-up website. Change colours and typography effortlessly.
 ftd.raw-image-src document-image: https://fastn.com/-/fastn.com/images/fastn-logo.png
 optional string site-name: 
-optional ftd.image-src site-logo: $wizard-media-logo
+optional ftd.image-src site-logo: $acme-logo
 boolean full-width: true
 boolean blog: false
 boolean show-banner: false
@@ -68,7 +68,7 @@ types: $typo.types
 
 -- theme.page.footer:
 
--- theme.footer-badge: Copyright © 2023 Wizard Media Inc.
+-- theme.footer-badge: Copyright © 2023 acme-inc-2.
 
 -- end: theme.page.footer
 
