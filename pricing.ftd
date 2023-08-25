@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectet adipiscing elit.
 
 -- ws.pricing-card: Basic
 active: true 
-price: 99
+price: 89
 currency: \$
 subscription: mo
 feature-list: $common.startup-feature-list
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectet adipiscing elit.
 
 -- ws.pricing-card: Advanced
 active: false 
-price: 153
+price: 135
 currency: \$
 subscription: mo
 feature-list: $common.enterprise-feature-list
