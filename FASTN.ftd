@@ -3,10 +3,10 @@
 -- fastn.package: fastn-community.github.io/acme-inc-2
 favicon: /-/fastn-community.github.io/acme-inc-2/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/acme-inc-2 as theme
+-- fastn.dependency: fastn-community.github.io/wizard-media-theme as theme
 -- fastn.dependency: fastn-community.github.io/acme-inc-2
 -- fastn.dependency: fastn-community.github.io/opensans-typography as typo
--- fastn.dependency: fastn-community.github.io/blue-violet-cs as cs
+-- fastn.dependency: fastn-community.github.io/golden-sunlight-cs as cs
 
 
 -- fastn.auto-import: theme
