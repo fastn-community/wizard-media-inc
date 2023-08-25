@@ -3,20 +3,20 @@
 full-width: true
 sidebar: false
 
--- ws.hero-bottom-hug: Digital marketing that drives results for your business
+-- ws.hero-bottom-hug: We transform ideas into digital outcomes.
 image: $assets.files.assets.team-page-hero.jpg
 
 We are an award-winning strategic design company that provides consultancy
 services and help you create outstanding digital products.
 
--- ws.team: Meet the amazing team behind Aiglesoft Inc 
+-- ws.team: Meet the amazing team behind Wizard Media Inc 
 tag: OUR TEAM 
 
 -- ws.team.members:
 
--- ws.member: Meenu Kumari
+-- ws.member: Priyanka Yadav
 profile: Founder and CEO
-image: $assets.files.assets.meenu-kumari.jpg
+image: $assets.files.assets.priyanka-yadav.jpg
 
 Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
 
