@@ -7,6 +7,7 @@ favicon: /-/fastn-community.github.io/aiglesoft-inc/favicon.ico
 -- fastn.dependency: fastn-community.github.io/aiglesoft-inc
 -- fastn.dependency: fastn-community.github.io/opensans-typography as typo
 -- fastn.dependency: fastn-community.github.io/golden-sunlight-cs as cs
+-- fastn.dependency: fastn-community.github.io/site-doc
 
 
 -- fastn.auto-import: theme
