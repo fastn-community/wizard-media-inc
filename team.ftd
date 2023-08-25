@@ -14,9 +14,9 @@ tag: OUR TEAM
 
 -- ws.team.members:
 
--- ws.member: Andy Smith
+-- ws.member: Meenu Kumari
 profile: Founder and CEO
-image: $assets.files.assets.andy-smith.jpg
+image: $assets.files.assets.meenu-kumari.jpg
 
 Lorem ipsum dolor sit amet consectetur dolorili adipiscing elit.
 
