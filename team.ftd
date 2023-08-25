@@ -9,7 +9,7 @@ image: $assets.files.assets.team-page-hero.jpg
 We are an award-winning strategic design company that provides consultancy
 services and help you create outstanding digital products.
 
--- ws.team: Meet the amazing team behind Wizard Media Inc 
+-- ws.team: Meet the amazing team behind acme-inc-2
 tag: OUR TEAM 
 
 -- ws.team.members:

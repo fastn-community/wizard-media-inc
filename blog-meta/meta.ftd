@@ -1,4 +1,4 @@
--- import: fastn-community.github.io/wizard-media-theme/blog-meta/patrica
+-- import: fastn-community.github.io/acme-inc-2/blog-meta/patrica
 
 -- common.post-meta meta: Keep your files safe with Martex
 post-image: $assets.files.assets.featured.jpg
