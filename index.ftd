@@ -1,25 +1,21 @@
 -- ws.page:
 
--- ws.page.body:
-
 -- ws.hero-right-hug-expanded: We transform ideas into digital outcomes.
-image: $assets.files.assets.hero-image-2.jpg
-primary-cta: Get started for free
+image: $assets.files.assets.hero.jpg
+primary-cta: SUBSCRIBE
 primary-cta-link: index.html
+input-placeholder: ENTER YOU EMAIL
 error-message: No credit card needed, free 30-day trial
 
 We are an award-winning strategic design company that provides consultancy
 services and help you create outstanding digital products.
 
--- ws.features-card: We make your business gain more revenue at a glance
-features: $common.list-of-features
-
-We are an award-winning strategic design company that provides consultancy
-services and help you create outstanding digital products.
+-- ws.client-card: Trusted by the top companies in this industry
+client-list: $common.list-of-clients
 
 -- ws.cta-left-hug: Engage your most valuable visitors
 tag: ENHANCE ENGAGEMENT
-image: $assets.files.assets.hero-image.jpg
+image: $assets.files.assets.hero.jpg
 
 Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor
 turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an
@@ -32,7 +28,7 @@ ipsum suscipit
 - I am dummy pointer text.
 
 -- ws.cta-right-hug: Solution that grows with you
-image: $assets.files.assets.cta-3-image.png
+image: $assets.files.assets.hero.jpg
 
 Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor
 turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an
@@ -47,66 +43,11 @@ ipsum suscipit
 - Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum
   aliquam undo congue dolor cursus
 
--- ws.banner-card: See how much faster you can get paid with fastn
-info-cards: $common.list-of-info-cards
-
-Use our calculator to see how many days we can free up in cash flow for your
-business.
-
--- ws.cta-left-hug: Create
-image: $assets.files.assets.hero-image.jpg
-primary-cta: Get started
-primary-cta-link: index.html
-
-Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
-
-- I am dummy pointer text.
-
-- I am dummy pointer text.
-
-- I am dummy pointer text.
-
--- ws.logo-cloud: With knowledge, skills & hard work
-logo-list: $common.list-of-logos
-tag: ENHANCE ENGAGEMENT
-
-The only SaaS business platform that combines CRM, marketing automation &
-commerce. We are an award-winning strategic design company that provides
-consultancy services and help you create outstanding digital products.
-
-- I am dummy pointer text.
-
-- I am dummy pointer text.
-
-- I am dummy pointer text. 
-
--- ws.cta-left-hug: Welcome Studio most valuable visitors
-tag: ANALYZE
-image: $assets.files.assets.hero-image.jpg
-
-- Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
-
-- Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
-
--- ws.hero-bottom-hug: Right strategies & implementations
-image: $assets.files.assets.hero-bottom-hug.jpg
-
-We are an award-winning strategic design company that provides consultancy
-services and help you create outstanding digital products.
-
--- ws.client-card: Trusted by the top companies in this industry
-client-list: $common.list-of-clients
-
--- ws.testimonials-card: Here’s what our amazing clients are saying
-testimonials: $common.list-of-testimonials
+-- ws.features-card: Why Fastn?
+features: $common.list-of-features
 
 -- ws.faqs: Frequently Asked Questions
 faqs-list: $common.list-of-faqs
 
-Flex is the only saas business platform that lets you run your business on one
-platform, seamlessly across all digital channels.
 
 -- end: ws.page
